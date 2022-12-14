@@ -1,16 +1,19 @@
 ### Hi there 👋
 
+- :computer: I work as a Quality Consultant for Customer Service
+- :chart_with_downwards_trend: I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
+- :eyes: I'm looking to pivot my career into Data Analytics
+- :mailbox: You can find me: [Linkedin](https://www.linkedin.com/in/elaineacabatorres/)
+
+
+:bulb: Skills :bulb:
+* Python
+* SQL
+* Google Spreadsheets
+* Tableau 
+
+Please feel free to share any feedback of recommendation.
 <!--
 **hielaine4/hielaine4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
