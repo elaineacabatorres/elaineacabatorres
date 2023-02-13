@@ -12,7 +12,7 @@
 * Google Spreadsheets
 * Tableau 
 
-Please feel free to share any feedback of recommendation.
+Please feel free to share any feedback or recommendation.
 <!--
 **hielaine4/hielaine4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
