@@ -7,9 +7,9 @@
 
 
 :bulb: Skills :bulb:
-* Python
 * SQL
-* Google Spreadsheets
+* Python
+* Spreadsheets
 * Tableau 
 
 Please feel free to share any feedback or recommendation.
